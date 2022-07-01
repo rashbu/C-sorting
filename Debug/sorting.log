@@ -1,0 +1,3 @@
+﻿  sorting.c
+C:\Users\rafal\source\repos\sorting\sorting.c(67,18): warning C4244: "funkcja": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  sorting.vcxproj -> C:\Users\rafal\source\repos\sorting\Debug\sorting.exe
